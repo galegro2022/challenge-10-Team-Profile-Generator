@@ -1,0 +1,21 @@
+{
+  "name": "challenge-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "backend",
+    "app"
+  ],
+  "author": "Alegro",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.3.1"
+  }
+}
