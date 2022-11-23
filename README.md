@@ -1,1 +1,2 @@
 # challenge-10-Team-Profile-Generator
+This is a program that will quickly and efficiently generate team profiles for a company website. Simply enter in the relevant details of your orgranization's managers,engineers and interns and they will automatically be added to a website. I was motivated to do this because it would save people time; instead of looking up the details of everyone and creating a website the website will be automatically generated from the command line. I learned a lot about object oriented programming making this. 
